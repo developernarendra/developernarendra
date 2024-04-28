@@ -1,4 +1,4 @@
-<img src="lkbn.png">                     
+![lkbn.png](https://github.com/developernarendra/developernarendra/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)                    
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Narendra Parora</b></h1>
 <h2 align="center"><b>Software Engineer @Intellect Design Arena ex @HGS 💯 and Passionate About Crafting Efficient Code 🚀</b></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developernarendra&label=Profile%20views&color=0e75b6&style=flat" alt="developernarendra" /> </p>
