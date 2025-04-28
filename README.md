@@ -1,6 +1,6 @@
 ![lkbn.png](https://github.com/developernarendra/developernarendra/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)                    
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Narendra Parora</b></h1>
-<h2 align="center"><b>Software Engineer @Intellect Design Arena ex @HGS 💯 and Passionate About Crafting Efficient Code 🚀</b></h2> 
+<h2 align="center"><b>Software Engineer @Acoustic ex @Intellect Design Arena ex @HGS 💯 and Passionate About Crafting Efficient Code 🚀</b></h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developernarendra&label=Profile%20views&color=0e75b6&style=flat" alt="developernarendra" /> </p>
 <h4 align="center"><b>Software Engineer 👨‍💻 | Building @MeanProjects| Problem Solving Enthusiast 🧠 | Building Scalable Web Solutions for Startups | @Active Open source events🔥</b>
 </b></h4>   
@@ -27,7 +27,7 @@
 ## 🙋‍♂️ About Me
 <a><img align ="right" alt ="coding"  width="290" height="250" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="narendra-parora"/></a>
 
--    SDE <b>@Intellect Design Arena(eMach.AI) </b>  <b>Ex @HGS 💯</b>
+-    SDE <b>@Acoustic) </b> <b>Ex @Intellect Design Arena(eMach.AI) </b>  <b>Ex @HGS 💯</b>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas ❤.
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 👁‍🗨 What's Special about me? <br> 
